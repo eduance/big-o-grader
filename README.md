@@ -1,20 +1,15 @@
-## Readme
+# Quick Setup Guide
 
-### Get started quickly
+Jumpstart your app using **ddev**! Setting it up should be a breeze and take you under 2 minutes. For guidance, visit [Ddev's Getting Started Guide](https://ddev.com/get-started/).
 
-- Use ddev to quickly boot this app, it should take you less than 2 minutes to set it up! Check: https://ddev.com/get-started/
+## A Note from the Developer
 
-### Message from me
+Hey there!
 
-Hi there!
+I've been immersed in crafting this engaging project. Of the 7 hours I dedicated to it, I relished experimenting with various forms of wishful coding, ensuring the accuracy of my calculations, and delving deep into the intricacies of the Pearson Correlation Coefficient.
 
-I have been building this fun little project and I have spent about 7 hours on the assignment.
-Most of my time was me just having a bunch of fun and playing with different ways of wishful coding,
-some making sure my calculations were right and just finding out how to calculate a Pearson Correlation Coeffecient.
+I've also taken this opportunity to highlight my expertise in Laravel.
 
-Besides that I did my best to showcase my Laravel skills.
+Out of the total time spent, an entire hour was me engrossed in educational videos, aiming to thoroughly grasp the statistical components.
 
-In total I have spent about 7 hours on the assignment. One hour was me literally binging videos, trying
-to really understand the statistics part.
-
-Hope I have been able to trigger some emotions. Let me know what you think.
+I hope my work resonates with you. I'd love to hear your thoughts!
